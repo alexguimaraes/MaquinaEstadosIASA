@@ -1,2 +1,2 @@
 # MaquinaEstadosIASA
-Status: Complete 
+Add menu to console
